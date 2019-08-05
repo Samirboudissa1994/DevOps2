@@ -1,0 +1,5 @@
+project_name = "samirisbest"
+billing_account = "0196C0-AB3178-BBDD91"
+cloudflare_email = "samirboudissa1@msn.com"
+cloudflare_token = "21b467137272233dd7d1b7e36c9d75c5418ca"
+cloudflare_domain = "testi.cf"
