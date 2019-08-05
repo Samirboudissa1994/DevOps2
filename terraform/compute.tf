@@ -11,7 +11,7 @@ resource "google_compute_instance" "default" {
  allow_stopping_for_update = "true"
  name = "${var.project_name}-web"
  tags = ["web"]
- machine_type = "n1-standard-1"
+ machine_type = "custom-1-2048"
 
  boot_disk {
    initialize_params {
